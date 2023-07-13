@@ -32,22 +32,6 @@
 			height="40"
 		/>
 	</a>
-		<a href="https://www.python.org" target="_blank" rel="noreferrer">
-		<img
-			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-			alt="python"
-			width="40"
-			height="40"
-		/>
-	</a>
-	<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-		<img
-			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-			alt="typescript"
-			width="40"
-			height="40"
-		/>
-	</a>
 
 <h3 align="left">Other stuff I'm familiar with:</h3>
 <p align="left">
@@ -63,14 +47,6 @@
 		<img
 			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
 			alt="nodejs"
-			width="40"
-			height="40"
-		/>
-	</a>
-	<a href="https://mariadb.org/" target="_blank" rel="noreferrer">
-		<img
-			src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg"
-			alt="mariadb"
 			width="40"
 			height="40"
 		/>
